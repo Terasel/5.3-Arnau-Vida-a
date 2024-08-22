@@ -1,0 +1,51 @@
+{
+    "glasses-info": {
+        "brand": "Afflelou",
+        "frame": "Metallic",
+        "provider": "Afflelou Spain",
+        "price": "105.75 €",
+        "graduation-left": "4.5",
+        "graduation-right": "5.05",
+        "frame-color": "green",
+        "glass-color-left": "black",
+        "glass-color-right": "black",
+        "sale-employee": "Rosa Arteta Smith",
+        "time-of-sale": "2024-05-02 17:34:55",
+        "provider-info": {
+            "provider-name": "Afflelou Spain",
+            "provder-address": {
+                "street": "Carrer de Galvani",
+                "number": "27",
+                "floor": "2º",
+                "door": "5ª",
+                "city": "Terrassa",
+                "zipcode": "08224",
+                "country": "Spain"
+            },
+            "provider-phone": "930057123",
+            "provider-fax": "936759843",
+            "nif": "A8576401Y"
+        }
+    },
+    "client-list": {
+        "client1": {
+            "client-name": "Nerea Gámez Subirachs",
+            "client-info": {
+                "name": "Nerea Gámez Subirachs",
+                "address": {
+                    "street": "Carrer de Wilson",
+                    "number": "31",
+                    "floor": "3º",
+                    "door": "3ª",
+                    "city": "Terrassa",
+                    "zipcode": "08224",
+                    "country": "Spain"
+                },
+                "client-phone": "934659102",
+                "client-email": "nergamsub@gmail.com",
+                "register-date": "2024-01-18",
+                "recommended-by": "Francisco Moretti Márquez"
+            }
+        }
+    }
+}

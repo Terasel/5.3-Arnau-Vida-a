@@ -18,7 +18,8 @@
     "last-shoppings": {
         "shopping1": {
             "provider": {
-                "provider-name": "Rayban",
+                "brand": "Rayban",
+                "provider-name": "Rayban Spain",
                 "provider-address": {
                     "street": "Carrer Transversal",
                     "number": "102",
