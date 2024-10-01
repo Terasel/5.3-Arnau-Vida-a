@@ -1,48 +1,58 @@
 {
-    "client-data": {
-        "client-name": "Isidoro Pérez Cumbia",
-        "client-address": {
-            "street": "Carrer de Sant Antoni",
-            "number": "75",
-            "floor": "3º",
-            "door": "2ª",
+    "provider": {
+        "provider-name": "Rayban Spain",
+        "provider-address": {
+            "street": "Carrer Transversal",
+            "number": "102",
+            "floor": "1º",
+            "door": "1ª",
             "city": "Terrassa",
             "zipcode": "08224",
             "country": "Spain"
         },
-        "client-phone": "937563827",
-        "client-email": "isipercum@gmail.com",
-        "register-date": "2023-08-14",
-        "recommended-by": "María Heffner Hernández"
+        "provider-phone": "938570218",
+        "fax": "937701294",
+        "NIF": "A98672532"
     },
-    "last-shoppings": {
-        "shopping1": {
-            "provider": {
-                "brand": "Rayban",
-                "provider-name": "Rayban Spain",
-                "provider-address": {
-                    "street": "Carrer Transversal",
-                    "number": "102",
-                    "floor": "1º",
-                    "door": "1ª",
-                    "city": "Terrassa",
-                    "zipcode": "08224",
-                    "country": "Spain"
-                },
-                "provider-phone": "938570218",
-                "provider-email": "atencion_cliente_rayban@gmail.com",
-                "fax": "937701294",
-                "NIF": "A98672532"
+    "glasses": {
+        "brand": "Rayban",
+        "graduation-left": "2.3",
+        "graduation-right": "2.0",
+        "glass-color-left": "clear",
+        "glass-color-right": "clear",
+        "frame-type": "Metallic",
+        "price": "127.0",
+        "frame-color": "Red",
+        "sale-employee": "Rubén Trueba Gamo",
+        "time-of-sale": "2023-02-11 12:27:34"
+    },
+    "clients": {
+        "client1": {
+            "client-name": "Isidoro Pérez Cumbia",
+            "client-address": {
+                "street": "Carrer de Sant Antoni",
+                "number": "75",
+                "floor": "3º",
+                "door": "2ª",
+                "city": "Terrassa",
+                "zipcode": "08224",
+                "country": "Spain"
             },
-            "graduation-left": "2.3",
-            "graduation-right": "2.0",
-            "glass-color-left": "clear",
-            "glass-color-right": "clear",
-            "frame-type": "Metallic",
-            "price": "127.0",
-            "frame-color": "Red",
-            "sale-employee": "Rubén Trueba Gamo",
-            "time-of-sale": "2023-02-11 12:27:34"
+            "client-phone": "937563827",
+            "client-email": "isipercum@gmail.com",
+            "register-date": "2023-08-14",
+            "recommended-by": "María Heffner Hernández",
+            "last-shoppings": {
+                "shopping1": {
+                    "brand": "Rayban",
+                    "graduation-left": "2.3",
+                    "graduation-right": "2.0",
+                    "glass-color-left": "clear",
+                    "glass-color-right": "clear",
+                    "frame-type": "Metallic",
+                    "price": "127.0"
+                }
+            }
         }
     }
 }

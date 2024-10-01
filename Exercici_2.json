@@ -1,5 +1,20 @@
 {
-    "glasses-info": {
+    "provider": {
+        "provider-name": "Afflelou Spain",
+        "provider-address": {
+            "street": "Carrer de Galvani",
+            "number": "27",
+            "floor": "2º",
+            "door": "5ª",
+            "city": "Terrassa",
+            "zipcode": "08224",
+            "country": "Spain"
+        },
+        "provider-phone": "930057123",
+        "provider-fax": "936759843",
+        "nif": "A8576401Y"
+    },
+    "glasses": {
         "brand": "Afflelou",
         "frame": "Metallic",
         "provider": "Afflelou Spain",
@@ -13,7 +28,7 @@
         "time-of-sale": "2024-05-02 17:34:55",
         "provider-info": {
             "provider-name": "Afflelou Spain",
-            "provder-address": {
+            "provider-address": {
                 "street": "Carrer de Galvani",
                 "number": "27",
                 "floor": "2º",
@@ -25,12 +40,10 @@
             "provider-phone": "930057123",
             "provider-fax": "936759843",
             "nif": "A8576401Y"
-        }
-    },
-    "client-list": {
-        "client1": {
-            "client-name": "Nerea Gámez Subirachs",
-            "client-info": {
+        },
+        "bought-by": {
+            "client1": "Nerea Gámez Subirachs",
+            "clien1-file": {
                 "name": "Nerea Gámez Subirachs",
                 "address": {
                     "street": "Carrer de Wilson",
@@ -46,6 +59,24 @@
                 "register-date": "2024-01-18",
                 "recommended-by": "Francisco Moretti Márquez"
             }
+        }
+    },
+    "clients": {
+        "client1": {
+            "name": "Nerea Gámez Subirachs",
+            "address": {
+                "street": "Carrer de Wilson",
+                "number": "31",
+                "floor": "3º",
+                "door": "3ª",
+                "city": "Terrassa",
+                "zipcode": "08224",
+                "country": "Spain"
+            },
+            "client-phone": "934659102",
+            "client-email": "nergamsub@gmail.com",
+            "register-date": "2024-01-18",
+            "recommended-by": "Francisco Moretti Márquez"
         }
     }
 }
